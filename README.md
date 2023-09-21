@@ -1,4 +1,25 @@
-# Horiseon accessibility refactor
+# Horiseon accessibility refactor      
+
+[Visit the Deployed Site](https://fritzhuie.github.io/Horiseon-Refactor/)
+
+In this refactor, we improved accessability and maintainability without changing the behavior of the client site.
+
+Some of the key changes include:
+- Replaced `<div>` tags with semantic tags
+- Added alt text to all images to improve accessability
+- Removed reduntant classes in CSS
+- Replaced CSS class definitions with relevant references to semantic tags
+
+
+## Table of Contents
+
+* [Technology Used](#technology-used)
+* [Code Refactor Example](#code-refactor-example)
+* [Usage](#usage)
+* [Learning Points](#learning-points)
+* [Author Info](#author-info)
+* [Credits](#credits)
+* [License](#license)
 
 ## Technology Used 
 
@@ -7,35 +28,7 @@
 | HTML    | [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | 
 | CSS     | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)      |   
 | Git | [https://git-scm.com](https://git-scm.com/)     |
-| Github | [https://github.com](https://github.com/)     |        
-
-## Description 
-
-[Visit the Deployed Site](https://fritzhuie.github.io/Horiseon-Refactor/)
-
-
-In this refactor, we improved accessability and maintainability without changing the behavior of the client site.
-
-Some of the key changes include:
-- Added alt text to all images to improve accessability
-- Moved image references from CSS to HTML
-- Removed reduntant classes in CSS
-- Replaced `<div>` tags with semantic tags
-
-
-![Site Langing Page](./site.gif)
-
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Code Refactor Example](#code-refactor-example)
-* [Usage](#usage)
-* [Learning Points](#learning-points)
-* [Author Info](#author-info)
-* [Credits](#credits)
-* [License](#license)
+| Github | [https://github.com](https://github.com/)     |  
 
 
 ## Code Refactor Example
